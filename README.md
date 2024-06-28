@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roganth P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React Js, SpringBoot**
+- 🌱 I’m currently learning **Node JS, SpringBoot**
 
 - 👯 I’m looking to collaborate with **Everyone**
 
